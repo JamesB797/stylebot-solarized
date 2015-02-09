@@ -1,0 +1,44 @@
+{
+  "developers.google.com": {
+    "_rules": {
+      "tbody tr th": {
+        "color": "#93a1a1",
+        "background-color": "#073642"
+      },
+      "nav.inline-toc": {
+        "background-color": "#073642",
+        "border-color": "#859900"
+      },
+      "pre > code": {
+        "font-size": "18px"
+      },
+      "ol, li, li code, table": {
+        "font-size": "20px"
+      },
+      "p, p code": {
+        "font-size": "22px"
+      },
+      "p, h1, h2, h3, h4, h5, ol, li, table": {
+        "color": "#839496"
+      },
+      "pre": {
+        "border-color": "#859900",
+        "border-width": "4px",
+        "background-color": "#fdf6e3"
+      },
+      ".gc-toc a span, #main-nav a, .api-level, .signed-in a": {
+        "color": "#586e75"
+      },
+      "#sandbar, #maia-footer-local, table": {
+        "border-color": "#859900",
+        "background-color": "#073642"
+      },
+      "body, #maia-footer-global, #maia-header, .jd-details, .jd-details-title": {
+        "border-color": "#859900",
+        "background-image": "none",
+        "background-color": "#002b36"
+      }
+    },
+    "_enabled": true
+  }
+}
