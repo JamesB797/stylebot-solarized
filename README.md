@@ -5,11 +5,12 @@ To install:
 -----------
 
 1. Install the
-[stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
-extension for Chrome.
+   [stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
+   extension for Chrome.
 
-2. Navigate to the
-[raw style.json file.](https://raw.githubusercontent.com/JamesB797/stylebot-solarized/master/style.json)
+2. Navigate to the raw
+   [style.json](https://raw.githubusercontent.com/JamesB797/stylebot-solarized/master/style.json) 
+   file.
 
 3. Press Ctrl+A then Ctrl+C to copy all of the text on the page.
 
